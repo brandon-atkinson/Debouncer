@@ -1,4 +1,4 @@
-# Debouncer - A tiny Arduino library to read digital pins cleanly when connected to push buttons and other things that bounce (transition quickly between high and low many times due to a single event)
+# Debouncer - A tiny Arduino library to read digital pins cleanly 
 
 ## Installing
 
